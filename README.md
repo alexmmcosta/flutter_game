@@ -1,3 +1,3 @@
 # flutter_game
 
-A new Flutter project.
+Followed the flutter tutorial to creat a brick breaker game, this is the resolt.
